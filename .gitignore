@@ -1,0 +1,10 @@
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+/temp/
+/archive/
+/.vscode/
+*.egg-info/
+docs/build/
+/.pytest_cache/
+/test/

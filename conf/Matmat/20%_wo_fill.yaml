@@ -1,0 +1,5 @@
+datatpl_cfg: 
+  M2C_BuildMissingQ:
+      Q_delete_ratio: 0.8
+  M2C_FillMissingQ:
+    Q_fill_type: "None"
